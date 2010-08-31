@@ -1,0 +1,26 @@
+#faqs {
+	margin: 10px 10px 25px 20px;
+}
+
+#faqs li {
+	list-style: decimal outside;
+	font-family: Georgia,"Times New Roman",Times,serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #AB245E;
+
+}
+
+#faqs .question {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#faqs .answer {
+	margin: 5px 0 15px;
+	padding: 10px;
+	background: #42032C;
+	border: solid 2px #F2DCBB;
+	color: #F2DCBB;
+	display: none;
+}
